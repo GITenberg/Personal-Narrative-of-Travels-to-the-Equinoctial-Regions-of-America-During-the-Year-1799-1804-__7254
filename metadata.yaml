@@ -1,0 +1,45 @@
+_repo: Personal-Narrative-of-Travels-to-the-Equinoctial-Regions-of-America-During-the-Year-1799-1804-__7254
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ross, Thomasina
+    gutenberg_agent_id: '26437'
+    url: http://www.gutenberg.org/2009/agents/26437
+creator:
+  authors:
+  - agent_name: Bonpland, Aimé
+    aliases:
+    - Goujaud, Aimé Jacques Alexandre
+    - Bonpland, Aime
+    birthdate: 1773
+    deathdate: 1858
+    gutenberg_agent_id: '2408'
+    url: http://www.gutenberg.org/2009/agents/2408
+  - agent_name: Humboldt, Alexander von
+    aliases:
+    - Humboldt, Friedrich Wilhelm Heinrich Alexander von
+    - Von Humboldt, Alexander
+    birthdate: 1769
+    deathdate: 1859
+    gutenberg_agent_id: '1995'
+    url: http://www.gutenberg.org/2009/agents/1995
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_von_Humboldt
+description: ''
+gutenberg_bookshelf: South America
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- Description and travel'
+- !lcc 'F2201'
+- !lcsh 'Scientific expeditions'
+- !lcsh 'Natural history -- South America'
+- GITenberg
+title: Personal Narrative of Travels to the Equinoctial Regions of America, During
+  the Year 1799-1804 — Volume 3
+url: http://www.gutenberg.org/ebooks/7254
