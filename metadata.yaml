@@ -1,10 +1,13 @@
 _repo: Personal-Narrative-of-Travels-to-the-Equinoctial-Regions-of-America-During-the-Year-1799-1804-__7254
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Ross, Thomasina
     gutenberg_agent_id: '26437'
     url: http://www.gutenberg.org/2009/agents/26437
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Bonpland, Aimé
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1995
     wikipedia: http://en.wikipedia.org/wiki/Alexander_von_Humboldt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7254#Personal-Narrative-of-Travels-to-the-Equinoctial-Regions-of-America-During-the-Year-1799-1804-_
 gutenberg_bookshelf: South America
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
